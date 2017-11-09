@@ -1,10 +1,8 @@
 # About Guinea pig
 
-Guinea pig
-
 [Read more here](https://en.wikipedia.org/wiki/Guinea_pig)
 
-##Important to know
+## Important to know
 1. Kingdom:	Animalia
 2. Phylum:	Chordata
 3. Class:	Mammalia
@@ -12,7 +10,7 @@ Guinea pig
 5. Family:	Caviidae
 6. Genus:	Cavia
 
-##Can be found in the following areas
+## Can be found in the following areas
 - South America
 - Pet stores
 
