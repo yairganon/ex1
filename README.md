@@ -16,7 +16,7 @@
 
 ![Image of Guinea pig](/images/img.jpg)
 
-col A | col B
+English | עברית
 -------|--------
-1 | 2
-3 | 4
+Guinea pig | שרקן
+cavy | רבייה
