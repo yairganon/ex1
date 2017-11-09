@@ -12,6 +12,7 @@ Guinea pig
 ##Can be found in the following areas
 - South America
 - Pet stores
+
 ![Image of Guinea pig](/images/img.jpg)
 
 col A | col B
